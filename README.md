@@ -1,5 +1,5 @@
 # Offsets
-ngine::World::Levels = 0x138
+Engine::World::Levels = 0x138
 #f03c15 Engine::World::PersistentLevel = 0x30
 #f03c15 Engine::GameInstance::LocalPlayers = 0x38
 #f03c15 Engine::World::OwningGameInstance = 0x180
